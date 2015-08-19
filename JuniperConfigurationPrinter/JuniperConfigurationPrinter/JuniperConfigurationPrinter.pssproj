@@ -37,8 +37,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="img\" />
-    <Folder Include="img\NewFolder1\" />
     <Folder Include="css\" />
+    <Folder Include="data\" />
     <Folder Include="output\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

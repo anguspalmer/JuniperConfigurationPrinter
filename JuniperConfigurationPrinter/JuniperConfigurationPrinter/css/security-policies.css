@@ -29,13 +29,15 @@ table {
 
 table, th, td {
     border-color: #5B6871;
-    color: #5B6871;
+    color: #5B6871; font-size:0.85em
 }
 
 th {
     background-color: #5B6871;
     color: #b593c6;
 }
+
+td{_font-size:0.7em;}
 
 tr.deny td {
     background-color: #ffdbdb;
@@ -54,7 +56,7 @@ tr.permit td {
         float: left;
         height: 60px;
         width: 135px;
-        background-image: url('../img/ac3-logo-grey.png');
+        background-image: url('../img/logo-grey.png');
         position: relative;
         left: -60px;
         top: -10px;

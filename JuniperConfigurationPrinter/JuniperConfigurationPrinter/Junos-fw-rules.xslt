@@ -47,7 +47,7 @@
         </div>
         <div id="footer">
           <div class="wrap">
-            <p>Copyright © ac3 Limited 2015</p>
+            <p>Juniper Configuration Printer 2015</p>
           </div>
         </div>
       </body>
