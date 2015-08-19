@@ -1,0 +1,68 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #5B6871;
+}
+
+#header, #footer {
+    width: 100%;
+    float: left;
+}
+
+.wrap {
+    position: relative;
+    margin: 0 auto;
+    /*replace 900px with your width*/
+    width: 900px;
+}
+
+#content {
+    padding: 20px;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+table {
+    padding-top: 10px;
+}
+
+table, th, td {
+    border-color: #5B6871;
+    color: #5B6871;
+}
+
+th {
+    background-color: #5B6871;
+    color: #b593c6;
+}
+
+tr.deny td {
+    background-color: #ffdbdb;
+}
+
+tr.permit td {
+    background-color: #eeffee;
+}
+
+#header {
+    background-color: #5B6871;
+}
+
+    #header .logo a {
+        border-style: none;
+        float: left;
+        height: 60px;
+        width: 135px;
+        background-image: url('../img/ac3-logo-grey.png');
+        position: relative;
+        left: -60px;
+        top: -10px;
+    }
+
+
+    #header h1 {
+        color: #B593C6;
+        position: relative;
+        left: 30px;
+    }
